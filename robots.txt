@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /resume.pdf
+Allow: /
+
+Sitemap: http://www.harikesh.me/sitemap.xml

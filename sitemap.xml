@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.harikesh.me/</loc>
+  <lastmod>2018-06-13T19:08:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.harikesh.me/index.html</loc>
+  <lastmod>2018-06-13T19:08:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.harikesh.me/about-me.html</loc>
+  <lastmod>2018-06-13T19:08:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.harikesh.me/portfolio.html</loc>
+  <lastmod>2018-06-13T19:08:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.harikesh.me/resume.html</loc>
+  <lastmod>2018-06-13T19:08:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.harikesh.me/contact.html</loc>
+  <lastmod>2018-06-13T19:08:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.harikesh.me/resume.pdf</loc>
+  <lastmod>2018-06-13T19:08:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
